@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1736920523192" clover="3.2.0">
+  <project timestamp="1736920523192" name="All files">
+    <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="13" coveredelements="13" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
+    <file name="script.js" path="/Users/irinaorekhova/Desktop/Containers-homework-1/src/script.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="9" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
